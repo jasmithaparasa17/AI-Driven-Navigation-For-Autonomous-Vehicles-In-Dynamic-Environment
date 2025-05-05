@@ -1,0 +1,2 @@
+torch.save(model.state_dict(), "dqn_model.pth")
+torch.save(model, "dqn_model.pth")
